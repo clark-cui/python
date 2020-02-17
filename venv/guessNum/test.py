@@ -1,6 +1,9 @@
 
 # 猜数字小游戏
 
+#游戏介绍：
+#有3次机会猜数字是多少，输入不合法提示，猜对提示第几次成功，3次以后都错就提示游戏结束，输入begin重新开始游戏。
+
 #重启函数
 def restart():
     enterName = input('please input begin to play again ')
